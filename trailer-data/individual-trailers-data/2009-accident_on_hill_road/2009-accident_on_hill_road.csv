@@ -1,0 +1,14 @@
+frame_number,man/woman,emotion,year,movie_name
+28,woman,sad,2009,accident_on_hill_road
+28,woman,disgust,2009,accident_on_hill_road
+20,man,happy,2009,accident_on_hill_road
+30,man,sad,2009,accident_on_hill_road
+19,woman,fear,2009,accident_on_hill_road
+45,woman,neutral,2009,accident_on_hill_road
+52,man,angry,2009,accident_on_hill_road
+49,woman,neutral,2009,accident_on_hill_road
+33,man,angry,2009,accident_on_hill_road
+32,man,happy,2009,accident_on_hill_road
+21,woman,happy,2009,accident_on_hill_road
+18,woman,neutral,2009,accident_on_hill_road
+31,man,angry,2009,accident_on_hill_road

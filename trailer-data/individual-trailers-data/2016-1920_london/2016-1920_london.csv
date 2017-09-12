@@ -1,0 +1,15 @@
+frame_number,man/woman,emotion,year,movie_name
+132,woman,fear,2016,1920_london
+44,woman,neutral,2016,1920_london
+108,woman,sad,2016,1920_london
+140,man,neutral,2016,1920_london
+59,woman,neutral,2016,1920_london
+106,woman,sad,2016,1920_london
+141,man,sad,2016,1920_london
+65,woman,sad,2016,1920_london
+65,man,sad,2016,1920_london
+65,man,angry,2016,1920_london
+64,man,disgust,2016,1920_london
+64,man,surprise,2016,1920_london
+64,man,sad,2016,1920_london
+139,man,sad,2016,1920_london

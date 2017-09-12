@@ -1,0 +1,15 @@
+frame_number,man/woman,emotion,year,movie_name
+60,man,fear,2010,once_upon_a_time_in_mumbai
+60,man,sad,2010,once_upon_a_time_in_mumbai
+61,man,neutral,2010,once_upon_a_time_in_mumbai
+61,man,sad,2010,once_upon_a_time_in_mumbai
+143,man,angry,2010,once_upon_a_time_in_mumbai
+144,man,angry,2010,once_upon_a_time_in_mumbai
+77,man,sad,2010,once_upon_a_time_in_mumbai
+77,woman,neutral,2010,once_upon_a_time_in_mumbai
+153,man,fear,2010,once_upon_a_time_in_mumbai
+113,man,neutral,2010,once_upon_a_time_in_mumbai
+117,woman,happy,2010,once_upon_a_time_in_mumbai
+73,man,angry,2010,once_upon_a_time_in_mumbai
+72,woman,neutral,2010,once_upon_a_time_in_mumbai
+79,woman,sad,2010,once_upon_a_time_in_mumbai

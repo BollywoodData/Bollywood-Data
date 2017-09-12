@@ -1,0 +1,17 @@
+frame_number,man/woman,emotion,year,movie_name
+93,man,sad,2009,dev
+122,man,sad,2009,dev
+98,man,neutral,2009,dev
+58,man,neutral,2009,dev
+88,man,sad,2009,dev
+55,man,angry,2009,dev
+121,man,neutral,2009,dev
+54,man,angry,2009,dev
+56,man,fear,2009,dev
+74,woman,neutral,2009,dev
+92,man,fear,2009,dev
+82,woman,sad,2009,dev
+123,man,fear,2009,dev
+99,man,sad,2009,dev
+117,man,fear,2009,dev
+57,woman,fear,2009,dev

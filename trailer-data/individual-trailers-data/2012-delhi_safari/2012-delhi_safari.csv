@@ -1,0 +1,5 @@
+frame_number,man/woman,emotion,year,movie_name
+60,man,happy,2012,delhi_safari
+56,man,angry,2012,delhi_safari
+110,man,sad,2012,delhi_safari
+82,woman,fear,2012,delhi_safari

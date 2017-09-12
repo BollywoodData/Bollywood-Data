@@ -1,0 +1,11 @@
+frame_number,man/woman,emotion,year,movie_name
+3,man,sad,2010,"road,_movie"
+120,woman,happy,2010,"road,_movie"
+86,man,happy,2010,"road,_movie"
+38,woman,sad,2010,"road,_movie"
+67,man,sad,2010,"road,_movie"
+33,man,angry,2010,"road,_movie"
+74,woman,sad,2010,"road,_movie"
+39,man,neutral,2010,"road,_movie"
+101,man,neutral,2010,"road,_movie"
+73,man,fear,2010,"road,_movie"

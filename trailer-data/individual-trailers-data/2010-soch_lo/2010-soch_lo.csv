@@ -1,0 +1,8 @@
+frame_number,man/woman,emotion,year,movie_name
+61,man,neutral,2010,soch_lo
+52,woman,neutral,2010,soch_lo
+63,woman,sad,2010,soch_lo
+49,man,sad,2010,soch_lo
+92,man,angry,2010,soch_lo
+47,man,sad,2010,soch_lo
+48,woman,sad,2010,soch_lo
