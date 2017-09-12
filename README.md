@@ -1,4 +1,4 @@
-## Bollywood-Movie-Data
+# Bollywood-Movie-Data
 
 This repository contains three types of Bollywood Data: 
 1. __scripts-data__
